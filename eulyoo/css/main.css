@@ -215,15 +215,17 @@
     }
     .book .list ul li a h3 {
         font-size: 15px;
-        margin: 15px 0 0 0;
+        margin: 11px 0 0 0;
+        overflow: visible;
     }
     .book .list ul li a strong{
-        color: #666;
+        margin: 0;
+        font-size: 13px;
     }
     .book .list ul li a p {
-        height: 10px;
+        height: 36px;
     }
-    .book .more {   
+    .book .more {
         position:absolute;
         top: 5px;
         right: 0;
